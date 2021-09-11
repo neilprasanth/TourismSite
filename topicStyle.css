@@ -1,0 +1,60 @@
+/*find by class use .*/
+.text{
+  font-size: 20px;
+  font-family: inherit;
+  color: lavender;
+
+}
+#centerCol{
+  border-right: 5px double;
+  border-left: 5px double;
+  height: 100%;
+}
+#slogan{
+  font-family: lobster;
+  font-size: 25px;
+  color: navy;
+}
+.header{
+  color: navy;
+}
+.centertxt{
+  color: lavender;
+}
+.img{
+  border-color: black;
+  border-radius: 10px;
+  border-width: 10px;
+  border-style: double
+
+}
+
+
+a{
+  text-decoration: none;
+  font-size: 20px;
+  color: #navy;
+}
+h1{
+  color: navy;
+}
+}
+h2{
+  font-family: lobster;
+  color: navy;
+
+}
+h4{
+  font-family: lobster;
+  color: navy;
+  font-size: 20px;
+}
+@font-face {
+  font-family: lobster;
+  src:url(Lobster-Regular.ttf);
+}
+body{
+  background-color: tan;
+border-color: navy;
+border-style: groove;
+}
